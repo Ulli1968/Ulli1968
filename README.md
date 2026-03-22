@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ulli1968
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning CHatGPT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
